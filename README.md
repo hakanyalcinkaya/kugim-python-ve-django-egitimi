@@ -2,6 +2,11 @@
 ## KÜGİM'de 20 Nisan 2019 Tarihinde Başlayacak Olan Python ve Django Eğitimi Notlarını İçerir
 
 ### Başlamadan Önce Bilinmesi Gerekenler:
+- [ ] Kod Editörü Seçimi
+  - Visual Studio Code
+  - Atom
+  - Sublime Text
+  - PyCharm(IDE)
 - [ ] Markdown
 - [ ] HTML & CSS
 - [ ] Bootstrap
