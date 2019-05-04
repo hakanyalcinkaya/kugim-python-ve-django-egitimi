@@ -3,7 +3,7 @@
 
 
 ### Eğitim İçeriği:
-> Konular işlendikçe Repo'ya eklenecek.
+- [str ile Calismak](python/str_ile_calismak.py)
 
 ### Diğer Konular:
 - [ ] Kod Editörü Seçimi
