@@ -31,3 +31,22 @@ print(dir(first_name))  # Tum metodlara burdan bakabiliriz
 
 print(len(first_name + last_name))
 
+content = "Lorem Ipsum Dolor" \
+"dis amet :)" \
+"last line" 
+
+
+content_2 = "Incididunt Lorem dolor commodo\n" \
+"nisi deserunt enim anim in nulla.\n"
+"Lorem amet occaecat pariatur minim eiusmod id consectetur "
+
+
+content_3 = """Incididunt Lorem dolor commodo 
+nisi deserunt enim anim in nulla. 
+Lorem amet occaecat pariatur minim eiusmod id consectetur 
+nulla occaecat consequat consequat do exercitation magna. 
+"""
+
+print(content)
+print(content_2)
+print(content_3)
