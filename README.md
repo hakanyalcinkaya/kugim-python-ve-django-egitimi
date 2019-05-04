@@ -3,16 +3,18 @@
 
 
 ### Eğitim İçeriği:
-- [str ile Calismak](python/str_ile_calismak.py)
+- [str(Metinsel Islemler) ile Calismak](python/str_ile_calismak.py)
 
 ### Diğer Konular:
 - [ ] Kod Editörü Seçimi
-  - Visual Studio Code
-  - Atom
-  - Sublime Text
-  - PyCharm(IDE)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Atom](https://atom.io/)
+  - [Sublime Text](https://www.sublimetext.com/)
+  - [PyCharm(IDE)](https://www.jetbrains.com/pycharm/)
+- [ ] Git Client
+  - [Sublime Merge](https://www.sublimemerge.com/)
 - [ ] Markdown
-  - Typora
+  - [Typora](https://typora.io/)
 - [ ] HTML & CSS
 - [ ] Bootstrap
 - [ ] UI / UX -> Figma
