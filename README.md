@@ -12,6 +12,7 @@
   - Sublime Text
   - PyCharm(IDE)
 - [ ] Markdown
+  - Typora
 - [ ] HTML & CSS
 - [ ] Bootstrap
 - [ ] UI / UX -> Figma
