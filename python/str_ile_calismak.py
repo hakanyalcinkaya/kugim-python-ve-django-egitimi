@@ -50,3 +50,29 @@ nulla occaecat consequat consequat do exercitation magna.
 print(content)
 print(content_2)
 print(content_3)
+
+# Veri tipini ogren
+type(first_name)
+
+title = 'Hasan\'in Python Egitimi'
+new_title = 'Hasan "Gercek Python\'ci"'
+
+info = "kacis karakteri \n \\tir"
+print(info)
+
+# Hatali ->
+print(
+    "Merhaba " + first_name + " " + 
+    last_name + 
+    " senin yasin gelecek sene " + age + 1
+)
+
+age_info = "Merhaba " + first_name + " " + \
+    last_name + \
+    " senin yasin gelecek sene " + str(age + 1)
+
+print(age_info)
+
+age_str = str(age)
+
+print(age_str)
