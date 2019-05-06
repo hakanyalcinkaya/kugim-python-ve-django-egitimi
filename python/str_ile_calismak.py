@@ -31,9 +31,8 @@ print(dir(first_name))  # Tum metodlara burdan bakabiliriz
 
 print(len(first_name + last_name))
 
-"dis amet :)" \
-content = "Lorem Ipsum Dolor" \
-"last line" 
+content = "Lorem Ipsum Dolor \
+last line" 
 
 
 content_2 = "Incididunt Lorem dolor commodo\n" \
@@ -103,3 +102,25 @@ print(first_name[::-1] + ".", last_name)
 
 
 print(f"{last_name[0:2]}{last_name[-1]}")
+
+
+full_name = f"{first_name} {last_name}"
+print(full_name)
+
+first_name = first_name + " Hakan"
+first_name = "Oktay"
+first_name += " Hakan"
+print(first_name)
+
+
+info_1 = "Python"
+info_2 = "JavaScript"
+
+info_1, info_2 = info_2, info_1
+
+print(info_1)
+
+
+info_3 = info_4 = "Lorem"
+
+print(info_3)
