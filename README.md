@@ -1,5 +1,11 @@
 # Python ve Django Eğitimi Notları
+
+![Bootstrap + Python + Django](img/bootstrap-python-django.png)
+
+
 ## KÜGİM'de 20 Nisan 2019 Tarihinde Başlayacak Olan Python ve Django Eğitimi Notlarını İçerir
+
+
 
 
 ### Eğitim İçeriği:
