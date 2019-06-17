@@ -3,10 +3,12 @@
 ![Bootstrap + Python + Django](img/bootstrap-python-django.png)
 
 
-## KÜGİM'de 20 Nisan 2019 Tarihinde Başlayacak Olan Python ve Django Eğitimi Notlarını İçerir
+## KÜGİM'de 20 Nisan 2019 Tarihinde Başlayan Python ve Django Eğitimi Notlarını İçerir
 
 
-
+### Vagrant ile Windows İşletim Sistemine Linux/Ubuntu ve Django Framework Kurulumu Nasıl Yapılır?
+[![Vagrant ile Django Kurulumu](img/vagrant-django.png)](https://www.youtube.com/watch?v=NFL6tMnm1vw)
+[Izlemek icin tikla..](https://www.youtube.com/watch?v=NFL6tMnm1vw)
 
 ### Eğitim İçeriği:
 - [str(Metinsel Islemler) ile Calismak](python/str_ile_calismak.py)
