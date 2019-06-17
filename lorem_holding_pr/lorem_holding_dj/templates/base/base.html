@@ -1,0 +1,17 @@
+{% include 'base/head.html' %}
+{% include 'base/nav.html' %}
+
+
+{% block content %}
+{% endblock %} 
+
+<div class="container">
+    <div class="row bg-success">
+        <div class="col-12">
+                {% block container %}
+                {% endblock %} 
+            </div>
+        </div>
+</div>
+
+{% include 'base/footer.html' %}

@@ -1,0 +1,19 @@
+{% extends 'base/base.html' %}
+
+{% block content %}
+    {% include 'page/slider.html' %}
+    {% include 'page/content.html' %}
+    <h3>
+    Katilimcilar Listesi:
+    </h3>
+
+    <ul>
+        {% for item in names %} 
+            <!-- {% if item != "hakan" %} -->
+                <li>{{ item }}</li>
+            <!-- {% endif %}        -->
+            
+        {% endfor %}
+    </ul>
+    
+{% endblock %}
