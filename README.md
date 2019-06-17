@@ -8,6 +8,7 @@
 
 ### Vagrant ile Windows İşletim Sistemine Linux/Ubuntu ve Django Framework Kurulumu Nasıl Yapılır?
 [![Vagrant ile Django Kurulumu](img/vagrant-django.png)](https://www.youtube.com/watch?v=NFL6tMnm1vw)
+
 [Izlemek icin tikla..](https://www.youtube.com/watch?v=NFL6tMnm1vw)
 
 ### Eğitim İçeriği:
